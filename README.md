@@ -51,4 +51,9 @@ ACL’ler yukarıdan aşağıya doğru çalışır.
 
 Her ACL’nin sonunda varsayılan bir implicit deny bulunur.
 
+
 Wildcard mask (0.0.0.255) kullanım mantığı öğrenilmiştir.
+
+## 🖼 Topoloji Görseli
+
+![Topoloji](topology.png)
